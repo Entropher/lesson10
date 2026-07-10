@@ -11,9 +11,11 @@ Part of a web development course. The page simulates a construction/real estate 
 - An embedded OpenStreetMap iframe
 - External CSS via a linked stylesheet
 
-## Structure# lesson10
+## Structure
+```
 lesson10/
-        ├── index.html
-        ├── style.css
-        └── src/
-            └── images/
+├── index.html
+├── style.css
+└── src/
+    └── images/
+```
