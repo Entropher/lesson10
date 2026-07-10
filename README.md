@@ -13,7 +13,7 @@ Part of a web development course. The page simulates a construction/real estate 
 
 ## Structure# lesson10
 lesson10/
-├── index.html
-├── style.css
-└── src/
-    └── images/
+        ├── index.html
+        ├── style.css
+        └── src/
+            └── images/
